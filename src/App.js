@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://i.imgur.com/crnGmeT.jpg" className="App-logo" alt="logo" style="border-radius:50%"/>
+        <img src="https://i.imgur.com/crnGmeT.jpg" className="App-logo" alt="logo" style={{borderRadius:'50%'}}/>
         <p>
           Link Facebook của em Tú ở dưới nhé 😍🤣
         </p>
